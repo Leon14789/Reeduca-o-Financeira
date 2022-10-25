@@ -1,0 +1,34 @@
+.lgpd {
+    position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 12px;
+  background-color: #363636;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 999;
+}
+
+.lgpd button {
+    background-color: #296fa7;
+    border: 0;
+    cursor: pointer;
+    color: #fff;
+    
+}
+
+.lgpd button:hover {
+    background-color: #003082;
+}
+
+.text-lgpd {
+    margin: 0 0 1em 0 !important;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.link-lgpd {
+    color: #fff; 
+}
